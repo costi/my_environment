@@ -1,0 +1,371 @@
+VERSION	217
+Dir.stats	{'word': 'operations', 'base': 'operations'}
+MruCmd.data	{'word': ':q', 'time': 1277329025}
+MruCmd.data	{'word': ':w', 'time': 1277329012}
+MruCmd.data	{'word': '/Switch', 'time': 1277328964}
+MruCmd.data	{'word': ':split', 'time': 1277328838}
+MruCmd.data	{'word': '/autocmd', 'time': 1277328811}
+MruCmd.data	{'word': '/nocompatible', 'time': 1277328802}
+MruCmd.data	{'word': '/blame', 'time': 1277328781}
+MruCmd.data	{'word': '/statusline', 'time': 1277328765}
+MruCmd.data	{'word': ':e ~/.vimrc', 'time': 1277328661}
+MruCmd.data	{'word': ':source! $MYVIMRC', 'time': 1277327790}
+MruCmd.data	{'word': ':bd', 'time': 1277327787}
+MruCmd.data	{'word': ':source $MYVIMRC!', 'time': 1277327747}
+MruCmd.data	{'word': ':source $MYVIMRC', 'time': 1277327728}
+MruCmd.data	{'word': '/F12', 'time': 1277327642}
+MruCmd.data	{'word': ':echo $MYVIMRC', 'time': 1277327544}
+MruCmd.data	{'word': ':echo $VIMRC', 'time': 1277327499}
+MruCmd.data	{'word': ':echo ''reloaded''', 'time': 1277327492}
+MruCmd.data	{'word': ':$VIMRC', 'time': 1277327478}
+MruCmd.data	{'word': '/Leader>v', 'time': 1277327335}
+MruCmd.data	{'word': '/special', 'time': 1277327245}
+MruCmd.data	{'word': ':FuzzyFinderTextMate', 'time': 1277327182}
+MruCmd.data	{'word': '/mapleader', 'time': 1277327152}
+MruCmd.data	{'word': '/<Leader>R', 'time': 1277327137}
+MruCmd.data	{'word': '/R', 'time': 1277327031}
+MruCmd.data	{'word': ':b9', 'time': 1277327026}
+MruCmd.data	{'word': ':tabnew', 'time': 1277327023}
+MruCmd.data	{'word': ':ls', 'time': 1277327018}
+MruCmd.data	{'word': ':e doc/README_FOR_APP', 'time': 1277327002}
+MruCmd.data	{'word': '/reload', 'time': 1277326966}
+MruCmd.data	{'word': ':tabe ~/.vimrc', 'time': 1277326963}
+MruCmd.data	{'word': '/common', 'time': 1277258454}
+MruCmd.data	{'word': '/mark', 'time': 1277258189}
+MruCmd.data	{'word': '/close', 'time': 1277257972}
+MruCmd.data	{'word': '/delivered', 'time': 1277257571}
+MruCmd.data	{'word': ':qa', 'time': 1276269937}
+MruCmd.data	{'word': ':help tags', 'time': 1276138218}
+MruCmd.data	{'word': ':tags', 'time': 1276138210}
+MruCmd.data	{'word': ':qa!', 'time': 1276137932}
+MruCmd.data	{'word': '/vu', 'time': 1276010598}
+MruCmd.data	{'word': ':tabe workspace/truckerzoom/app/models/container.rb', 'time': 1276009924}
+MruCmd.data	{'word': ':tabe workspace/truckerzoom/', 'time': 1276009874}
+MruCmd.data	{'word': ':tabe ~./vimrc', 'time': 1276009643}
+MruCmd.data	{'word': ':registers', 'time': 1276009502}
+MruCmd.data	{'word': ':h buffer', 'time': 1276009256}
+MruCmd.data	{'word': ':h buffers', 'time': 1276009226}
+MruCmd.data	{'word': ':h', 'time': 1276009150}
+MruCmd.data	{'word': ':set a', 'time': 1275925921}
+MruCmd.data	{'word': ':NERDTree', 'time': 1275925908}
+MruCmd.data	{'word': ':wq', 'time': 1275915922}
+MruCmd.data	{'word': ':tabe props.dat', 'time': 1275596660}
+MruCmd.data	{'word': '/make', 'time': 1275591994}
+MruCmd.data	{'word': '/op_date', 'time': 1271813392}
+MruCmd.data	{'word': '/op_name', 'time': 1271812652}
+MruCmd.data	{'word': '/calendar_for', 'time': 1271811462}
+MruCmd.data	{'word': ':ruby finder.rescan!', 'time': 1271703338}
+MruCmd.data	{'word': ':ruby finder.reload!', 'time': 1271703307}
+MruCmd.data	{'word': '::w', 'time': 1271703159}
+MruCmd.data	{'word': '/cop', 'time': 1271702703}
+MruCmd.data	{'word': ':%s/cop/container_operation/g', 'time': 1271702359}
+MruCmd.data	{'word': '/render', 'time': 1271701998}
+MruCmd.data	{'word': ':render', 'time': 1271701994}
+MruCmd.data	{'word': '/Update', 'time': 1271701373}
+MruCmd.data	{'word': '/span_id', 'time': 1271701189}
+MruCmd.data	{'word': ':set mouse=a', 'time': 1271700608}
+MruCmd.data	{'word': ':e app/views/container_operations/destroy.rjs', 'time': 1271700052}
+MruCmd.data	{'word': ':e app/views/container_operations/update.rjs', 'time': 1271699992}
+MruCmd.data	{'word': ':redo', 'time': 1271698926}
+MruCmd.data	{'word': '/Delete', 'time': 1271695226}
+MruCmd.data	{'word': '/delete_it', 'time': 1271695179}
+MruCmd.data	{'word': '/Observer', 'time': 1271649470}
+MruCmd.data	{'word': '/mailer', 'time': 1271649467}
+MruCmd.data	{'word': '/Cannot create container operations unless co', 'time': 1271649049}
+MruCmd.data	{'word': '/cannot', 'time': 1271649035}
+MruCmd.data	{'word': ':e db/migrate/20100418004652_add_planned_op_time_to_container_operations.rb', 'time': 1271648916}
+MruCmd.data	{'word': '/build_load', 'time': 1271648595}
+MruCmd.data	{'word': '/return', 'time': 1271648589}
+MruCmd.data	{'word': '/planned_op_date', 'time': 1271648508}
+MruCmd.data	{'word': ':b17', 'time': 1271630878}
+MruCmd.data	{'word': ':n17', 'time': 1271630872}
+MruCmd.data	{'word': ':e db/migrate/20100417191446_put_data_in_new_legs_fields.rb', 'time': 1271627182}
+MruCmd.data	{'word': '/return_at', 'time': 1271623427}
+MruCmd.data	{'word': '/mark_container', 'time': 1271555794}
+MruCmd.data	{'word': '/final?', 'time': 1271555294}
+MruCmd.data	{'word': '/pending', 'time': 1271555139}
+MruCmd.data	{'word': '/done', 'time': 1271555115}
+MruCmd.data	{'word': '/def done', 'time': 1271554986}
+MruCmd.data	{'word': '/after', 'time': 1271554867}
+MruCmd.data	{'word': '/after_', 'time': 1271554846}
+MruCmd.data	{'word': ':e db/migrate/20100418013451_create_the_pending_migrations.rb', 'time': 1271554721}
+MruCmd.data	{'word': ':wa', 'time': 1271538201}
+MruCmd.data	{'word': ':!ruby -I"test" o', 'time': 1271534630}
+MruCmd.data	{'word': ':!ruby app/models/container_operation.rb | less', 'time': 1271532812}
+MruCmd.data	{'word': ':FuzzyFinderRenewCache', 'time': 1271531958}
+MruCmd.data	{'word': '/gene', 'time': 1271531467}
+MruCmd.data	{'word': '/audit', 'time': 1271458829}
+MruCmd.data	{'word': '/street_turn', 'time': 1271456006}
+MruCmd.data	{'word': '/final', 'time': 1271455481}
+MruCmd.data	{'word': '/next_pending', 'time': 1271450335}
+MruCmd.data	{'word': '/legs', 'time': 1271450260}
+MruCmd.data	{'word': '/importcontainer3', 'time': 1271449458}
+MruCmd.data	{'word': '/@cop', 'time': 1271449181}
+MruCmd.data	{'word': '/op_one', 'time': 1271449160}
+MruCmd.data	{'word': '/op_pne', 'time': 1271449158}
+MruCmd.data	{'word': '/drop', 'time': 1271448954}
+MruCmd.data	{'word': '/dop', 'time': 1271448950}
+MruCmd.data	{'word': ':', 'time': 1271446248}
+MruCmd.data	{'word': '/closed', 'time': 1271440627}
+MruCmd.data	{'word': '/close!', 'time': 1271382564}
+MruCmd.data	{'word': '/consign', 'time': 1271381027}
+MruCmd.data	{'word': ':set noautoindent', 'time': 1271377553}
+MruCmd.data	{'word': '/indent', 'time': 1271377538}
+MruCmd.data	{'word': '/XML', 'time': 1271376364}
+MruCmd.data	{'word': ':qw', 'time': 1271292871}
+MruCmd.data	{'word': '/sort', 'time': 1271291888}
+MruCmd.data	{'word': '/proxy_owner', 'time': 1271284318}
+MruCmd.data	{'word': '/reflection', 'time': 1271284303}
+MruCmd.data	{'word': '/last', 'time': 1271283913}
+MruCmd.data	{'word': '/debugger', 'time': 1270776989}
+MruCmd.data	{'word': ':w runner.rb', 'time': 1270776371}
+MruCmd.data	{'word': ':tabe', 'time': 1270776329}
+MruCmd.data	{'word': '/solve', 'time': 1270775970}
+MruCmd.data	{'word': '/same_len', 'time': 1270775205}
+MruCmd.data	{'word': '/differences', 'time': 1270775144}
+MruCmd.data	{'word': '/possible', 'time': 1270775112}
+MruCmd.data	{'word': ':e db/migrate/20100404191302_mark_closed_containers_as_closed.rb', 'time': 1270409005}
+MruCmd.data	{'word': '/mark_co', 'time': 1270406786}
+MruCmd.data	{'word': '/mark_as', 'time': 1270406780}
+MruCmd.data	{'word': '/mark_container_as', 'time': 1270406758}
+MruCmd.data	{'word': '/mark_container_as_de', 'time': 1270406039}
+MruCmd.data	{'word': '/mark_', 'time': 1270405975}
+MruCmd.data	{'word': ':final', 'time': 1270405792}
+MruCmd.data	{'word': ':q!', 'time': 1270075103}
+MruCmd.data	{'word': ':tabneew', 'time': 1270074029}
+MruCmd.data	{'word': ':e app/views/people/adv_search.html.erb', 'time': 1270073924}
+MruCmd.data	{'word': ':!mv adv_search.html.erb app/views/people/', 'time': 1270073872}
+MruCmd.data	{'word': ':tabe adv_search.html.erb', 'time': 1270073823}
+MruCmd.data	{'word': ':e#', 'time': 1270073757}
+MruCmd.data	{'word': ':Explore', 'time': 1270073701}
+MruCmd.data	{'word': ':!rm search.html.erb', 'time': 1270073695}
+MruCmd.data	{'word': ':w adv_search.html.erb', 'time': 1270073675}
+MruCmd.data	{'word': ':w app/views/people/search.html.erb', 'time': 1270073267}
+MruCmd.data	{'word': ':%t.string//g', 'time': 1270070980}
+MruCmd.data	{'word': '/zip:q', 'time': 1270068385}
+MruCmd.data	{'word': '/:w', 'time': 1270063715}
+MruCmd.data	{'word': '/save', 'time': 1270063713}
+MruCmd.data	{'word': ':tabe ../harper_c_address/load-addr.sql', 'time': 1270063397}
+MruCmd.data	{'word': '/password', 'time': 1270063145}
+MruCmd.data	{'word': '/google', 'time': 1270057109}
+MruCmd.data	{'word': '/after_create', 'time': 1269568988}
+MruCmd.data	{'word': '/create', 'time': 1269568984}
+MruCmd.data	{'word': '/trucker', 'time': 1269568555}
+MruCmd.data	{'word': '/Depot', 'time': 1269568441}
+MruCmd.data	{'word': '/container_operation', 'time': 1269568264}
+MruCmd.data	{'word': '/containers', 'time': 1269567950}
+MruCmd.data	{'word': '/status', 'time': 1269565628}
+MruCmd.data	{'word': '/last_free', 'time': 1269563663}
+MruCmd.data	{'word': '/last_free_day', 'time': 1269563647}
+MruCmd.data	{'word': '/rail_lfd', 'time': 1269563557}
+MruCmd.data	{'word': '/rail', 'time': 1269562525}
+MruCmd.data	{'word': ':b11', 'time': 1269393926}
+MruCmd.data	{'word': ':bc', 'time': 1269393892}
+MruCmd.data	{'word': ':b13', 'time': 1269393889}
+MruCmd.data	{'word': ':cp', 'time': 1269388089}
+MruCmd.data	{'word': ':cn', 'time': 1269388083}
+MruCmd.data	{'word': '/tab', 'time': 1269388066}
+MruCmd.data	{'word': ':!ruby -I"test" app/models/container_operation.rb', 'time': 1269387990}
+MruCmd.data	{'word': '/log', 'time': 1269302835}
+MruCmd.data	{'word': ':nmap', 'time': 1269039067}
+MruCmd.data	{'word': ':map <F2>  i"Cool F2 pressed!"', 'time': 1269038904}
+MruCmd.data	{'word': ':map <F2>  "Cool F2 pressed!"', 'time': 1269038882}
+MruCmd.data	{'word': ':echo "Cool F2 pressed!"', 'time': 1269038856}
+MruCmd.data	{'word': ':map <F2> :echo "Cool F2 pressed!"', 'time': 1269038848}
+MruCmd.data	{'word': ':\t', 'time': 1269038731}
+MruCmd.data	{'word': ':t', 'time': 1269038727}
+MruCmd.data	{'word': ':nohl', 'time': 1269038683}
+MruCmd.data	{'word': ':FuzzyFinderFile', 'time': 1269038221}
+MruCmd.data	{'word': ':FuzzyFinderFIle', 'time': 1269038150}
+MruFile.data	{'word': '/home/costi/.vimrc', 'time': 1277329013}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/container.rb', 'time': 1277327787}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/[Fuzzyfinder]', 'time': 1277327182}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/container_operation.rb', 'time': 1277327015}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/containers/form/_container.html.erb', 'time': 1277327013}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/doc/README_FOR_APP', 'time': 1277327002}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/doc/log-march.txt', 'time': 1277325212}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/test/unit/container_operation_test.rb', 'time': 1277258416}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/import_container.rb', 'time': 1277257592}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/config/environment.rb', 'time': 1276138359}
+MruFile.data	{'word': '/home/costi/vimtalk.txt', 'time': 1276137929}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/controllers/container_charges_controller.rb', 'time': 1276113457}
+MruFile.data	{'word': '/home/costi/railsconf2010-app/features/step_definitions/web_steps.rb', 'time': 1276113453}
+MruFile.data	{'word': '/home/costi/railsconf2010-app/spec/spec_helper.rb', 'time': 1276113451}
+MruFile.data	{'word': '/home/costi/railsconf2010-app/features/manage_cards.feature', 'time': 1276113450}
+MruFile.data	{'word': '/home/costi/railsconf2010-app/features/step_definitions/card_steps.rb', 'time': 1276113449}
+MruFile.data	{'word': '/usr/lib/ruby/gems/1.8/gems/activerecord-3.0.0.beta3/lib/active_record/base.rb', 'time': 1276011333}
+MruFile.data	{'word': '~./vimrc', 'time': 1276009643}
+MruFile.data	{'word': '/home/costi/railsconf2010-app/NERD_tree_1', 'time': 1275925909}
+MruFile.data	{'word': '/home/costi/.bash_profile', 'time': 1275915922}
+MruFile.data	{'word': '/home/costi/Bureau/rubygems-1.3.7/README', 'time': 1275878885}
+MruFile.data	{'word': '/home/costi/workspace/OpenDMTP_client-c_1.2.3/props.dat', 'time': 1275596677}
+MruFile.data	{'word': '/home/costi/workspace/OpenDMTP_client-c_1.2.3/props.conf', 'time': 1275596581}
+MruFile.data	{'word': '/home/costi/workspace/OpenDMTP_client-c_1.2.3/src/base/propman.c', 'time': 1275596353}
+MruFile.data	{'word': '/home/costi/workspace/OpenDMTP_client-c_1.2.3/README.txt', 'time': 1275596204}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/container_operations/_container_operation.html.erb', 'time': 1271812646}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/containers/_container.html.erb', 'time': 1271812309}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/containers/_calendar_day.html.erb', 'time': 1271811691}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/public/javascripts/application.js', 'time': 1271703770}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/container_operations/destroy.rjs', 'time': 1271703765}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/controllers/container_operations_controller.rb', 'time': 1271703760}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/container_operations/update.rjs', 'time': 1271703382}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/helpers/container_operations_helper.rb', 'time': 1271703071}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/controllers/containers_controller.rb', 'time': 1271702373}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/container_charges/new.rjs', 'time': 1271701991}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/container_operations/container_operation.rjs', 'time': 1271700133}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/config/routes.rb', 'time': 1271699110}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/vendor/plugins/dhtml_calendar/public/javascripts/calendar.js', 'time': 1271695222}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/schema.rb', 'time': 1271650045}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100418013451_create_the_pending_migrations.rb', 'time': 1271649907}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/container_operation_observer.rb', 'time': 1271649752}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/order_mailer.rb', 'time': 1271649436}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100418004652_add_planned_op_time_to_container_operations.rb', 'time': 1271648916}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100417191446_put_data_in_new_legs_fields.rb', 'time': 1271640545}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/17', 'time': 1271630872}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20091117115652_add_street_turned_from_id_to_containers.rb', 'time': 1271537981}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/lib/tasks/migrate_to_new_legs.rake', 'time': 1271537887}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100404191302_mark_closed_containers_as_closed.rb', 'time': 1271536364}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100326012701_add_closed_to_containers.rb', 'time': 1271536364}
+MruFile.data	{'word': '/home/costi/.vim/ruby/lib/fuzzy_file_finder.rb', 'time': 1271532391}
+MruFile.data	{'word': '/home/costi/.vim/plugin/fuzzyfinder_textmate.vim', 'time': 1271532316}
+MruFile.data	{'word': '/home/costi/.vim/doc/rails.txt', 'time': 1271532015}
+MruFile.data	{'word': '/home/costi/.vim/doc/fuzzyfinder.jax', 'time': 1271531997}
+MruFile.data	{'word': '/home/costi/.vim/doc/fuzzyfinder.txt', 'time': 1271531910}
+MruFile.data	{'word': '/home/costi/.vimfuzzyfinder', 'time': 1271531862}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20091117104150_add_multiple_legs_to_container_operations.rb', 'time': 1271461834}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/test/fixtures/container_operations.yml', 'time': 1271449708}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/test/fixtures/companies.yml', 'time': 1271448997}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/test/fixtures/containers.yml', 'time': 1271445864}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/models/container_charges_extension.rb', 'time': 1271284286}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/test/unit/container_test.rb', 'time': 1271283241}
+MruFile.data	{'word': '/home/costi/word_kata_ruby/runner.rb', 'time': 1271263326}
+MruFile.data	{'word': '/home/costi/word_kata_ruby/word_chains.rb', 'time': 1270777738}
+MruFile.data	{'word': '/home/costi/word_kata_ruby/rspec_example.rb', 'time': 1270770290}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/script/performance/benchmarker', 'time': 1270408410}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/models/person.rb', 'time': 1270077024}
+MruFile.data	{'word': '/home/costi/workspace/address_book/config/routes.rb', 'time': 1270077024}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/controllers/people_controller.rb', 'time': 1270077023}
+MruFile.data	{'word': '/home/costi/workspace/address_book/public/stylesheets/application.css', 'time': 1270077023}
+MruFile.data	{'word': '/home/costi/workspace/address_book/todo.txt', 'time': 1270077001}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/views/people/adv_search.html.erb', 'time': 1270076837}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/views/layouts/application.html.erb', 'time': 1270075116}
+MruFile.data	{'word': '/home/costi/workspace/address_book/[Fuzzyfinder]', 'time': 1270075112}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/views/people/index.html.erb', 'time': 1270074054}
+MruFile.data	{'word': '/home/costi/workspace/address_book/adv_search.html.erb', 'time': 1270073823}
+MruFile.data	{'word': '/home/costi/workspace/address_book/app/views/people/search.html.erb', 'time': 1270073675}
+MruFile.data	{'word': '/home/costi/workspace/address_book/db/schema.rb', 'time': 1270073233}
+MruFile.data	{'word': '/var/lib/gems/1.8/gems/will_paginate-2.3.12/lib/will_paginate/view_helpers.rb', 'time': 1270068390}
+MruFile.data	{'word': '/home/costi/workspace/address_book/README', 'time': 1270064567}
+MruFile.data	{'word': '/home/costi/workspace/address_book/prepare_svn.sh', 'time': 1270064309}
+MruFile.data	{'word': '/home/costi/workspace/address_book/config/svn-prop.tmp', 'time': 1270064303}
+MruFile.data	{'word': '/home/costi/workspace/address_book/db/migrate/20100331191230_load_csv_data.rb', 'time': 1270064213}
+MruFile.data	{'word': '/home/costi/workspace/harper_c_address/load-addr.sql', 'time': 1270064062}
+MruFile.data	{'word': '/home/costi/workspace/address_book/db/db_for_csv.sql', 'time': 1270064048}
+MruFile.data	{'word': '/home/costi/workspace/address_book/config/database.yml', 'time': 1270063160}
+MruFile.data	{'word': '/home/costi/workspace/harper_c_address/conv.sql', 'time': 1270062640}
+MruFile.data	{'word': '/home/costi/workspace/address_book/db/initial.sql', 'time': 1270062582}
+MruFile.data	{'word': '/home/costi/azilink.sh', 'time': 1270058647}
+MruFile.data	{'word': '/home/costi/workspace/harper_c_address/address.sql', 'time': 1270057768}
+MruFile.data	{'word': '/home/costi/Documents/svn-book.html', 'time': 1270057131}
+MruFile.data	{'word': '/home/costi/workspace/azilink-read-only/src/org/lfx/azilink/MainActivity.java', 'time': 1270053290}
+MruFile.data	{'word': '/home/costi/workspace/azilink-read-only/src/org/lfx/azilink/ForwardService.java', 'time': 1270053206}
+MruFile.data	{'word': '/home/costi/workspace/azilink-read-only/azilink.ovpn', 'time': 1270053177}
+MruFile.data	{'word': '/home/costi/workspace/azilink-read-only/azilink.bat', 'time': 1270053169}
+MruFile.data	{'word': '/home/costi/azilink.', 'time': 1270052289}
+MruFile.data	{'word': '/etc/resolv.conf', 'time': 1270052285}
+MruFile.data	{'word': '/etc/udev/rules.d/90-android.rules', 'time': 1270048027}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/yaml_files/containers.yml', 'time': 1269567946}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100326011023_add_closed_to_containers.rb', 'time': 1269565829}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/20100326010932_add_closed_to_containers.rb', 'time': 1269565778}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/db/migrate/003_create_containers.rb', 'time': 1269562601}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/config/database.yml', 'time': 1269562030}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/config/database.', 'time': 1269562018}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/calendar_day', 'time': 1269393889}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/views/containers/calendar.html.erb', 'time': 1269392812}
+MruFile.data	{'word': '/home/costi/workspace/truckerzoom/app/controllers/messages_controller.rb', 'time': 1269388093}
+MruFile.data	{'word': '/home/costi/.bashrc', 'time': 1269388089}
+MruFile.data	{'word': '/home/costi/workspace/[Fuzzyfinder]', 'time': 1269038405}
+File.stats	{'word': 'db/migrate/20091117104150_add_multiple_legs_to_container_operations.rb', 'base': '**/operations'}
+File.stats	{'word': 'app/controllers/container_operations_controller.rb', 'base': 'ap*/c*/opera'}
+TextMate.stats	{'word': 'test/unit/container_operation_test.rb', 'base': 'operattest'}
+TextMate.stats	{'word': 'app/models/import_container.rb', 'base': 'import_co'}
+TextMate.stats	{'word': 'app/models/container.rb', 'base': 'container'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'container_opera'}
+TextMate.stats	{'word': 'app/models/container.rb', 'base': 'container.rb'}
+TextMate.stats	{'word': 'app/views/containers/form/_container.html.erb', 'base': 'form/contain'}
+TextMate.stats	{'word': 'doc/log-march.txt', 'base': 'log'}
+TextMate.stats	{'word': 'config/environment.rb', 'base': 'config/'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'opera.rb'}
+TextMate.stats	{'word': 'app/views/container_operations/_container_operation.html.erb', 'base': 'opera.erb'}
+TextMate.stats	{'word': 'app/views/containers/_calendar_day.html.erb', 'base': 'caleday'}
+TextMate.stats	{'word': 'app/views/containers/_container.html.erb', 'base': 'containe.erb'}
+TextMate.stats	{'word': 'public/javascripts/application.js', 'base': 'app.js'}
+TextMate.stats	{'word': 'public/javascripts/application.js', 'base': 'appli'}
+TextMate.stats	{'word': 'app/views/container_operations/destroy.rjs', 'base': 'dest.rjs'}
+TextMate.stats	{'word': 'app/helpers/container_operations_helper.rb', 'base': 'hel/opera'}
+TextMate.stats	{'word': 'app/views/containers/_calendar_day.html.erb', 'base': 'caday'}
+TextMate.stats	{'word': 'app/controllers/containers_controller.rb', 'base': 'con/conta'}
+TextMate.stats	{'word': 'app/views/container_charges/new.rjs', 'base': 'rjs'}
+TextMate.stats	{'word': 'public/javascripts/application.js', 'base': 'appjs'}
+TextMate.stats	{'word': 'app/views/container_operations/container_operation.rjs', 'base': 'operjs'}
+TextMate.stats	{'word': 'app/views/container_operations/container_operation.rjs', 'base': 'opera.rjs'}
+TextMate.stats	{'word': 'config/routes.rb', 'base': 'routes'}
+TextMate.stats	{'word': 'app/controllers/container_operations_controller.rb', 'base': 'c/operation'}
+TextMate.stats	{'word': 'app/views/container_operations/_container_operation.html.erb', 'base': 'opera.htm'}
+TextMate.stats	{'word': 'app/views/containers/_calendar_day.html.erb', 'base': 'calday'}
+TextMate.stats	{'word': 'db/schema.rb', 'base': 'schema'}
+TextMate.stats	{'word': 'app/views/container_operations/_container_operation.html.erb', 'base': 'operation.hml'}
+TextMate.stats	{'word': 'app/models/container_operation_observer.rb', 'base': 'observer'}
+TextMate.stats	{'word': 'app/models/order_mailer.rb', 'base': 'mailer'}
+TextMate.stats	{'word': 'db/schema.rb', 'base': 'schema.'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'cooperation'}
+TextMate.stats	{'word': 'db/migrate/20091117115652_add_street_turned_from_id_to_containers.rb', 'base': 'd/m/2009contai'}
+TextMate.stats	{'word': 'db/migrate/20100404191302_mark_closed_containers_as_closed.rb', 'base': 'closed'}
+TextMate.stats	{'word': 'db/migrate/20100326012701_add_closed_to_containers.rb', 'base': '2010closed'}
+TextMate.stats	{'word': 'db/migrate/20100326012701_add_closed_to_containers.rb', 'base': '2010'}
+TextMate.stats	{'word': 'lib/tasks/migrate_to_new_legs.rake', 'base': 'to_newlegs'}
+TextMate.stats	{'word': 'db/migrate/20100326012701_add_closed_to_containers.rb', 'base': 'migrate/2010.rb'}
+TextMate.stats	{'word': 'lib/tasks/migrate_to_new_legs.rake', 'base': 'rake'}
+TextMate.stats	{'word': 'config/environment.rb', 'base': 'enviro'}
+TextMate.stats	{'word': 'db/migrate/20100404191302_mark_closed_containers_as_closed.rb', 'base': 'mi/clo'}
+TextMate.stats	{'word': 'db/schema.rb', 'base': 'schema.rb'}
+TextMate.stats	{'word': 'app/views/containers/_calendar_day.html.erb', 'base': '_calendar'}
+TextMate.stats	{'word': 'test/fixtures/companies.yml', 'base': 'compan.yml'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'contaoper'}
+TextMate.stats	{'word': 'test/fixtures/containers.yml', 'base': 'cont.yml'}
+TextMate.stats	{'word': 'test/fixtures/containers.yml', 'base': 'container.yml'}
+TextMate.stats	{'word': 'test/fixtures/container_operations.yml', 'base': 'operat.yml'}
+TextMate.stats	{'word': 'test/unit/container_operation_test.rb', 'base': 't/containerop'}
+TextMate.stats	{'word': 'app/models/container_charges_extension.rb', 'base': 'a/m/exten'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'operation.'}
+TextMate.stats	{'word': 'app/models/container.rb', 'base': 'containerb'}
+TextMate.stats	{'word': 'app/views/containers/_calendar_day.html.erb', 'base': 'calendar_day'}
+TextMate.stats	{'word': 'script/performance/benchmarker', 'base': 'script/performance/benchm'}
+TextMate.stats	{'word': 'db/migrate/20100326012701_add_closed_to_containers.rb', 'base': 'closed'}
+TextMate.stats	{'word': 'app/views/layouts/application.html.erb', 'base': 'appl'}
+TextMate.stats	{'word': 'app/views/layouts/application.html.erb', 'base': 'appli'}
+TextMate.stats	{'word': 'public/stylesheets/application.css', 'base': 'css'}
+TextMate.stats	{'word': 'app/controllers/people_controller.rb', 'base': 'contro'}
+TextMate.stats	{'word': 'config/routes.rb', 'base': 'route'}
+TextMate.stats	{'word': 'app/views/people/index.html.erb', 'base': 'index'}
+TextMate.stats	{'word': 'app/models/person.rb', 'base': 'person'}
+TextMate.stats	{'word': 'app/controllers/people_controller.rb', 'base': 'con/peop'}
+TextMate.stats	{'word': 'db/db_for_csv.sql', 'base': 'db_fo'}
+TextMate.stats	{'word': 'db/migrate/20100331191230_load_csv_data.rb', 'base': 'db/'}
+TextMate.stats	{'word': 'config/database.yml', 'base': 'databa'}
+TextMate.stats	{'word': 'config/database.yml', 'base': 'database'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'containeropera'}
+TextMate.stats	{'word': 'test/fixtures/companies.yml', 'base': 'companies'}
+TextMate.stats	{'word': 'test/fixtures/companies.yml', 'base': 'companies.y'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'container_oper'}
+TextMate.stats	{'word': 'test/fixtures/containers.yml', 'base': 'containers.'}
+TextMate.stats	{'word': 'db/yaml_files/containers.yml', 'base': 'containers.'}
+TextMate.stats	{'word': 'test/unit/container_operation_test.rb', 'base': 'test/operation'}
+TextMate.stats	{'word': 'test/fixtures/container_operations.yml', 'base': 'test/operation'}
+TextMate.stats	{'word': 'test/unit/container_test.rb', 'base': 'contatest'}
+TextMate.stats	{'word': 'test/fixtures/containers.yml', 'base': 'containersym'}
+TextMate.stats	{'word': 'db/yaml_files/containers.yml', 'base': 'contayml'}
+TextMate.stats	{'word': 'calendar_day', 'base': 'calendar_day'}
+TextMate.stats	{'word': 'app/views/containers/calendar.html.erb', 'base': 'calendar.html'}
+TextMate.stats	{'word': 'app/models/container_operation.rb', 'base': 'container_operation'}
+TextMate.stats	{'word': 'lib/tasks/migrate_to_new_legs.rake', 'base': 'tasks/'}

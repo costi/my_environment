@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/costi/.gconf/system/networking'
+let g:netrw_dirhist_2='/home/costi/workspace/.metadata'
+let g:netrw_dirhist_3='/home/costi/workspace/truckerzoom/doc'
+let g:netrw_dirhist_4='/home/costi/workspace/address_book/app/controllers'
+let g:netrw_dirhist_5='/home/costi/workspace/address_book'
+let g:netrw_dirhist_6='/home/costi/workspace/address_book/app'
+let g:netrw_dirhist_7='/home/costi/workspace/address_book/app/views'
+let g:netrw_dirhist_8='/home/costi/workspace/address_book/app/views/people'
